@@ -17,7 +17,6 @@ Problema planteado sale a partir del siguiente grafo.
 
 Lenguaje
 ========
-* Nodejs 8.
 * Javascript.
 
 
@@ -30,4 +29,4 @@ Creditos
 
 Autor
 =====
-* Noe Wilber Tipo Mamani <noe.tipo@gmail.com> https://github.com/noetipo
+* Noe <noe.tipo@gmail.com> https://github.com/noetipo
