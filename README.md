@@ -12,10 +12,9 @@ nodos que en próximas iteraciones bajarían el costo general del camino al pasa
 
 Problema planteado sale a partir del siguiente grafo.
 
-.. image:: imagen.png
 
+![Solucion Demo](/imagen.png)
 
-[img1]: /imagen.png "Título alternativo"
 Lenguaje
 ========
 * Javascript.
