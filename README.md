@@ -1,5 +1,3 @@
-# Dijkstra
-
 ======================
 Algoritmo de Dijkstra.
 ======================
