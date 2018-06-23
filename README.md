@@ -14,6 +14,8 @@ Problema planteado sale a partir del siguiente grafo.
 
 .. image:: imagen.png
 
+
+[img1]: /imagen.png "Título alternativo"
 Lenguaje
 ========
 * Javascript.
